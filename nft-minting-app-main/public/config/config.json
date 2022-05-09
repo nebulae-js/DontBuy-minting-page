@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x19e01d499AFE597032f601B8FC202F4bcFF74e1a",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x19e01d499afe597032f601b8fc202f4bcff74e1a",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "Eth",
+    "ID": 1
+  },
+  "NFT_NAME": "DontBuy",
+  "SYMBOL": "DNTB",
+  "MAX_SUPPLY": 6000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 0.039,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/dont-buy-dont-buy-jzkoctdjpf",
+  "SHOW_BACKGROUND": true
+}
